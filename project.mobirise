@@ -1,0 +1,237 @@
+{
+  "settings": {
+    "name": "Site-02-25_2156",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 9,
+    "versionPublish": "4.6.5"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#27aae0",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get Instant Access</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#27aae0"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "16px"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">LOGIN</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/videomakerfx-146x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://firststopim.com/videomakerfx",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/tsjlTkMheks",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-2"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/videomakerfx1-1400x982.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/videomakerfx2-1194x174.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "http://firststopim.com/videomarkerfx",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<br><br><br>See A Live Demo Of <br>Video Maker FX In Actio",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/tseDQYLsoiw",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-6"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/videomakerfx2-1194x174.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "http://firststopim.com/videomakerrfx",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-8"
+        }
+      ]
+    }
+  }
+}
